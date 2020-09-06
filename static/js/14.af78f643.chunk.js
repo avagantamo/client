@@ -1,0 +1,2 @@
+(this["webpackJsonpsportments-client"]=this["webpackJsonpsportments-client"]||[]).push([[14],{146:function(e,l,r){"use strict";r.r(l);var t=r(0);l.default=function(e){var l=e.id;return(0,e.renderWrap)(t.createElement("iframe",{height:"700px",width:"100%",frameBorder:"no",allowFullScreen:!0,src:"https://repl.it/"+l+"?lite=true",scrolling:"no",sandbox:"allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"}))}}}]);
+//# sourceMappingURL=14.af78f643.chunk.js.map
